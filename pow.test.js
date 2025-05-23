@@ -1,4 +1,4 @@
-import {pow} from "./pow";
+import {Pow} from "./pow";
 
 describe ('testing pow function', () => {
     test('should return 4', () => {
